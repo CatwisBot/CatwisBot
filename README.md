@@ -1,18 +1,15 @@
 <div align="center">
 
-# Raden Whisnu Arya Nugraha
-
 # 👋 Hi, I'm Raden Whisnu Arya Nugraha A.K.A Catwis
-
-### aka **Catwis** 🐱
 
 Halo! Saya Raden Whisnu Arya Nugraha, dikenal juga sebagai Catwis. Saya seorang pengembang web, game enthusiast, dan pecinta teknologi yang selalu ingin belajar hal baru.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+Development+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+2D+Development+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+</div>
 
 ## � Tentang Saya
 
-</div>- 🌱 Saat ini fokus belajar **Next.js**, **Tailwind CSS**, dan **Phaser Game Development**.
+- 🌱 Saat ini fokus belajar **Next.js**, **Tailwind CSS**, dan **Phaser Game Development**.
 
 - � Suka membuat game kecil dan bereksperimen dengan teknologi baru.
 
