@@ -61,14 +61,11 @@ Halo! Saya Raden Whisnu Arya Nugraha, dikenal juga sebagai Catwis. Saya seorang 
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=radenwhisnu&show_icons=true&theme=tokyonight" alt="Catwis's GitHub Stats" />
+![Catwis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CatwisBot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=radenwhisnu&theme=tokyonight" alt="GitHub Streak" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CatwisBot&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFA657&currStreakLabel=C9D1D9)
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radenwhisnu&layout=compact&theme=tokyonight" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CatwisBot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 </div>
 
