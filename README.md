@@ -7,42 +7,24 @@ Halo! Saya Raden Whisnu Arya Nugraha, dikenal juga sebagai Catwis. Saya seorang 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+2D+Development+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 </div>
 
+
 ## 🚀 About Me
 
-- 🌱 Saat ini fokus belajar **Next.js**, **Tailwind CSS**, dan **Phaser Game Development**.
-
-- � Suka membuat game kecil dan bereksperimen dengan teknologi baru.
-
-- 🌏 Tertarik pada inovasi yang ramah lingkungan dan solusi digital yang bermanfaat.
-
+- 🌱 Fokus belajar **Next.js**, **Tailwind CSS**, dan **Phaser Game Development**.
+- 🎮 Suka membuat game 2D dan bereksperimen dengan teknologi baru.
+- 🌏 Tertarik pada inovasi ramah lingkungan dan solusi digital yang bermanfaat.
+- 🏠 Berdomisili di Indonesia.
+- 📚 Mahasiswa & pengembang otodidak.
+- ☕ Fun fact: Saya mengubah kopi menjadi kode!
 
 ## 🧰 Tech Stack
 
-<div>
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js)
+![Phaser](https://img.shields.io/badge/-Phaser-2E2E2E?style=for-the-badge&logo=phaser)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-```typescript![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
-
-const catwis = {![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js)
-
-    name: "Raden Whisnu Arya Nugraha",![Phaser](https://img.shields.io/badge/-Phaser-2E2E2E?style=for-the-badge&logo=phaser)
-
-    alias: "Catwis",![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-
-    location: "Indonesia 🇮🇩",
-
-    education: "Student & Self-taught Developer",## 📊 Statistik GitHub
-
-    currentFocus: ["Next.js", "Tailwind CSS", "Phaser Game Dev"],![Catwis's GitHub stats](https://github-readme-stats.vercel.app/api?username=radenwhisnu&show_icons=true&theme=tokyonight)
-
-    interests: ["Web Development", "Game Design", "Green Tech", "Open Source"],
-
-    funFact: "I turn coffee into code ☕ → 💻"## 🌍 Hubungi Saya
-
-};[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/radenwhisnu)
-
-```[![Instagram](https://img.shields.io/badge/Instagram-@radenwhisnu_-E4405F?style=flat&logo=instagram)](https://instagram.com/radenwhisnu_)
-</div>
 
 ## 💻 Tech Stack & Tools
 
