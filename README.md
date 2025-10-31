@@ -85,8 +85,8 @@ Halo! Saya Raden Whisnu Arya Nugraha, dikenal juga sebagai Catwis. Saya seorang 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=radenwhisnu&color=58A6FF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/radenwhisnu?style=for-the-badge&color=58A6FF)](https://github.com/radenwhisnu?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=CatwisBot&color=58A6FF&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/CatwisBot?style=for-the-badge&color=58A6FF)](https://github.com/CatwisBot?tab=followers)
 
 </div>
 
