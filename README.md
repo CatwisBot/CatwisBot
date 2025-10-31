@@ -18,7 +18,7 @@ Halo! Saya Raden Whisnu Arya Nugraha, dikenal juga sebagai Catwis. Saya seorang 
 
 ## 🧰 Tech Stack
 
-
+<div>
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
 
 ```typescript![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
@@ -42,7 +42,7 @@ const catwis = {![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=fo
 };[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/radenwhisnu)
 
 ```[![Instagram](https://img.shields.io/badge/Instagram-@radenwhisnu_-E4405F?style=flat&logo=instagram)](https://instagram.com/radenwhisnu_)
-
+</div>
 
 ## 💻 Tech Stack & Tools
 
